@@ -1,0 +1,15 @@
+terrarium_size: 40x30x30cm
+ventilation: Doppelbelüftung
+temperature: 22-34°C
+humidity: 60-90% (abhängig von Regenzeiten)  
+simulation_periods: ja  
+
+substrate:
+  ingredients: 80 % Humus / 20 % Lehm
+  height: 10cm hoch, leicht angedrückt
+  humidity: Angepasst an aride und humide Monate des Herkunftlandes, eine Ecke permanent leicht feucht.
+  cover: Moos, Laub
+
+decoration: "Eine Versteckmöglichkeit (z.B. Korkrinde) und eine Wasserschale muss gegeben sein."
+
+nutrition: Ausgewogene Ernährung durch Wirbellose.

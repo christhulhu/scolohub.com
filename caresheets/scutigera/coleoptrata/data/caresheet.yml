@@ -1,0 +1,15 @@
+terrarium_size: 20x20x30cm
+ventilation: Doppelbelüftung
+temperature: 20-26°C
+humidity: 40-50%
+simulation_periods: Entsprechend der ursprünglichen Verbreitung. Gegebenenfalls Abkühlung im Winter.
+
+substrate:
+  ingredients: 60% Lehm / 40% Torf
+  height: Unbedeutend da die Tiere nicht graben.
+  humidity: Leicht feucht.
+  cover: Unbedeutend.
+
+decoration: "Schräg aufgestellte und übereinander liegende Korkstücke um Verstecke und Klettermöglichkeiten zu schaffen."
+
+nutrition: Ausgewogene Ernährung durch Wirbellose wie Ofenfischchen, kleinen Grillen, Frucht- und Stubenfliegen. Man sollte einmal die Woche leicht sprühen, da die Tiere beim Trinken beobachtet wurden.

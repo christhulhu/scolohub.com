@@ -1,0 +1,15 @@
+terrarium_size: 20x20x20cm
+ventilation: Doppelbelüftung
+temperature: 20-28°C
+humidity: 50-70%
+simulation_periods: nein
+
+substrate:
+  ingredients: 60% Lehm / 40% Torf
+  height: 10cm hoch, leicht angedrückt
+  humidity: Leicht feucht.
+  cover: Moos, Laub
+
+decoration: "Eine Versteckmöglichkeit (z.B. Korkrinde) und eine Wasserschale muss gegeben sein."
+
+nutrition: Ausgewogene Ernährung durch Wirbellose.
