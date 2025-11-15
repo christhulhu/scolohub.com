@@ -9,7 +9,6 @@ Hundertfüßer sind faszinierende und einzigartige Wesen, jedoch genießen sie i
 
 Um diesem Mangel an Informationen entgegenzuwirken, soll ScoloHub.com eine zentrale Quelle für Wissen über Skolopender und ihre Terrarienhaltung werden. Obwohl sich die Seite derzeit im Aufbau befindet, wird sie kontinuierlich gepflegt und erweitert. Wir bieten bereits grundlegende Informationen für Neueinsteiger in das Hobby an und freuen uns über jede [Beteiligung an dieser Seite](about) sowie über den Informationsaustausch in unseren WhatsApp-Gruppen.
 
-{{< whatsapp-box >}}
 
 ---
 

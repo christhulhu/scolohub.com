@@ -12,8 +12,6 @@ Auch ohne Vorerfahrung kann man erfolgreich in die Terrarienhaltung von Skolopen
 
 Selbst bei der Wahl einer aggressiveren ist der Schlüssel Respekt und verantwortungsbewusster Umgang. Ein sicheres Terrarium und die Beachtung grundlegender Sicherheitsregeln machen die Haltung von beispielsweise **Scolopendra dehaani** machbar. Es ist jedoch wichtig zu bedenken, dass jeder Hundertfüßer seine eigenen Herausforderungen mitbringt. Ob Temperaturanforderungen für den "Malaysian Jewel", das Simulieren von Jahres- und Regenzeiten für **Scolopendra cingulata** oder die Einrichtung semiaquatischer Parameter für **Scolopendra paradoxa** – jede Art erfordert spezifisches Know-how und Aufmerksamkeit.
 
-{{<whatsapp-box>}}
-
 ## Gifttiere und Handling
 
 Skolopender sind karnivore Jäger. Entgegen populärer Annahme haben sie jedoch keine Giftzähne, sondern ihr erstes Beinpaar ist zu Giftklauen umgewandelt, den sogenannten Maxillipeden. Mit diesen Klauen injizieren sie einen Giftcocktail in ihre Beute, der unterschiedliche Aufgaben erfüllt, von der außerkörperlichen Verdauung durch Enzyme hin zu Lähmung und Tötung der Beute. Insgesamt ist die Giftwirkung und -zusammensetzung noch wenig Erforscht. Einen kleinen Eindruck in den bisherigen Wissensstand findet man unter [Toxizität](/skolopender/toxizitat).

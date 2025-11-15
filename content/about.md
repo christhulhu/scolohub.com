@@ -37,7 +37,6 @@ Da die diversen sozialen Medien eine starke Fragmentierung des Wissens mit sich 
 
 Jeder ist gerne dazu aufgerufen, sich an der Gestaltung und Erweiterung dieser Wissensdatenbank zu beteiligen. Entweder über direkte Bearbeitung der Webseite über Github mit Pull-Request oder über direkte Kontaktaufnahme beim technischen Maintainer [Christian Gehlen](mailto:christian.gehlen@gmx.net).
 
-{{< whatsapp-box >}}
 
 **Wie kann man unterstützen?**
 
