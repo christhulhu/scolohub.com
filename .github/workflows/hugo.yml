@@ -1,40 +1,60 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
-on: 
+on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write # Wichtig für das Deployment
+  id-token: write # Wichtig für das Deployment
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  deploy:
-    runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - name: Git checkout
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
 
-      - name: Update theme
-        run: git submodule update --init --recursive
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4 # Aktualisiert auf v4
 
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3 # Aktualisiert auf v3
         with:
           hugo-version: "latest"
           extended: true
 
-      - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Build with Hugo
+        # Nutzung der baseURL aus steps.pages.outputs.base_url
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3 # Aktualisiert auf v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          #   keep_files: true
-          user_name: Christian Gehlen
-          user_email: <chr.schmitz01@gmail.com>
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # Aktualisiert auf v4
