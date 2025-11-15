@@ -102,10 +102,8 @@ Die Futtermischung kann man dann in Gefrierbeutel füllen und einfrieren.
 
 {{<clearfix>}}
 
-{{<hint "info">}}
+> [!NOTE]
+> **Tipp:** Wenn man den Beutel nur zur Hälfte befüllt und flachdrückt, hat dies den Vorteil, dass man das gefrorene Futter stückweise abbrechen und so viel besser portionieren kann.
+> 
+> ![Gefrorenes Grillenfutter](images/grillenfutter-gefroren.jpg?width=200)
 
-**Tipp:** Wenn man den Beutel nur zur Hälfte befüllt und flachdrückt, hat dies den Vorteil, dass man das gefrorene Futter stückweise abbrechen und so viel besser portionieren kann.
-
-![Gefrorenes Grillenfutter](images/grillenfutter-gefroren.jpg?width=200)
-
-{{</hint>}}

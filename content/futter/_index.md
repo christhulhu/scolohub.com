@@ -9,19 +9,18 @@ Skolopender sind primär karnivore Jäger. Auch wenn sie teilweise Beute überw�
 
 ## Allgemeine Warnhinweise
 
-{{<hint "danger">}}
-Gewisse Futtertiere bergen ein hohes Verletzungsrisiko für den Skolopender. Teilweise unmittelbar, da beispielsweise große Schaben-Arten wie **Gromphadorhina sp.** kräftige Beine und spitze Dornen an diesen haben, aber auch lebende Wirbeltiere können sich im Todeskampf durchaus kräftig wehren und den Skolopender verletzen.
+> [!DANGER]
+> Gewisse Futtertiere bergen ein hohes Verletzungsrisiko für den Skolopender. Teilweise unmittelbar, da beispielsweise große Schaben-Arten wie **Gromphadorhina sp.** kräftige Beine und spitze Dornen an diesen haben, aber auch lebende Wirbeltiere können sich im Todeskampf durchaus kräftig wehren und den Skolopender verletzen.
+>
+> **Allgemein ist das Verfüttern von lebenden Wirbeltieren in Deutschland verboten.**
+>
+> Generell sollten nicht gefressene Futtertiere nach einem Tag wieder aus dem Terrarium entfernt werden, da diese einen Skolopender während und kurz nach der Häutung verletzen können. 
 
-**Allgemein ist das Verfüttern von lebenden Wirbeltieren in Deutschland verboten.**
-
-Generell sollten nicht gefressene Futtertiere nach einem Tag wieder aus dem Terrarium entfernt werden, da diese einen Skolopender während und kurz nach der Häutung verletzen können. 
-{{</hint>}}
 
 ## Juvenile Skolopender / Pedelings
 
-{{<hint "info" >}}
-Um Verletzungen der Jungtiere zu vermeiden, aber auch um die Nahrungsaufnahme zu gewährleisten, empfiehlt es sich, juvenile Skolopender mit Totfutter zu versorgen. 
-{{</hint>}}
+> [!NOTE]
+> Um Verletzungen der Jungtiere zu vermeiden, aber auch um die Nahrungsaufnahme zu gewährleisten, empfiehlt es sich, juvenile Skolopender mit Totfutter zu versorgen. 
 
 Je nach Art, sind die Jungtiere von Skolopendern gerade mal 2 bis 3cm lang. Mit dieser Größe kann man wohl kaum eine ausgewachsene Schabe mit 4cm verfüttern.
 
@@ -111,9 +110,9 @@ Aus diesem Grund sollte man die Futtertiere auch ordentlich pflegen, abwechslung
 
 Je nach Futtertierart kann Katzentrockenfutter eine zusätzliche Quelle für Protein darstellen, die wiederum auch den Skolopender zugutekommt. Gleichsam liefern frisches Obst und Gemüse Feuchtigkeit und Vitamine. Weitere Zusätze wie Haferflocken, Spirulina oder spezielles Vitaminfutter für die Futtertiere liefern wichtige Nährstoffe, die schlussendlich gut für unser eigentliches Terrarientier sind.
 
-{{<hint info>}}
-Wer seine Futtertiere mit einem vollständigen Nährstoff-Cocktail füttern will, findet hier auch ein [Rezept für Futter für Futtertiere](grillenfutter) wie Grillen, Heimchen, etc.
-{{</hint>}}
+> [!NOTE]
+> Wer seine Futtertiere mit einem vollständigen Nährstoff-Cocktail füttern will, findet hier auch ein [Rezept für Futter für Futtertiere](grillenfutter) wie Grillen, Heimchen, etc.
+
 
 ## Übersicht an nachgewiesen angenommenen Futtertieren
 

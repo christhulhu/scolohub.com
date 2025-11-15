@@ -44,6 +44,6 @@ Schlussendlich muss man auch hier wieder auf Erfahrungswerte zurückgreifen, ode
 
 Klimadiagramme sind ein wichtiger Anhaltspunkt für die Haltung von Skolopendern. Allerdings darf man die gewonnenen Informationen auch nicht zu dogmatisch übersetzen. Man muss auch immer die Lebensweise des Tieres mit in die Rechnung nehmen. Und die meisten Hundertfüßer sind bodenbewohnend und vergraben sich gerne. Diese Arten flüchten meist vor den hohen Temperaturen an der Oberfläche in ein kühleres Erdreich. Durch ihre nachtaktive Lebensweise sind die Tiere dazu in der kühleren Tageszeit in ihrem natürlichen Habitat unterwegs. Entsprechend kann man von den Durchschnittstemperaturen des Herkunftslandes durchaus ein paar Grad abziehen, ohne dass der Pflegling daran Schaden nimmt. Eher im Gegenteil, wie man am Beispiel **Scolopendra dehaani** "Cherry Red" sieht. Diesen hält man am besten bei 18-22°C, derweil in seinem Herkunftsland Malaysia eigentlich eine Durchschnittstemperatur von 23-31°C herrschen.
 
-{{<hint info>}}
-Mehr Informationen zur Haltung von [Scolopendra dehaani "Cherry Red"](/caresheets/scolopendra_dehaani/cherry_red/) in unseren [Pflegeanleitungen](/caresheets).
-{{</hint>}}
+> [!NOTE]
+> Mehr Informationen zur Haltung von [Scolopendra dehaani "Cherry Red"](/caresheets/scolopendra_dehaani/cherry_red/) in unseren [Pflegeanleitungen](/caresheets).
+

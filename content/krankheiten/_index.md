@@ -95,9 +95,8 @@ Endoparasiten sind Parasiten, die sich innerhalb des Körpers von Hundertfüßer
 
 {{<clearfix>}}
 
-{{<hint info>}}
-[Zur Erkennung und Behandlung von Endoparasiten]({{< ref "endoparasiten" >}})
-{{</hint>}}
+> [!NOTE]
+> [Zur Erkennung und Behandlung von Endoparasiten]({{< ref "endoparasiten" >}})
 
 {{<clearfix>}}
 

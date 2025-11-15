@@ -9,10 +9,9 @@ In einem guten Terrarium herrscht ein kleines Ökosystem. Man hat in dem Behält
 
 Aus diesem Grund empfiehlt sich sogar, gewisse Bodenpolizei aktiv in das Terrarium zu setzen, damit Futterreste beseitigt werden und Schimmel vorgebeugt wird. Die bekanntesten Helfer sind sicherlich weiße Asseln und Springschwänze, die man auch im Fachhandel für kleines Geld erwerben kann.
 
-{{<hint danger>}}
-**Vorsicht!**
-Nicht alle Asseln sind für ein Skolopender-Terrarium geeignet. Einige Armadillidium-Arten fressen alles an, auch den Skolopender. Gerade während und nach der Häutung sind Skolopender sehr ungeschützt. Darum sollte man lieber komplett auf gewisse Asseln verzichten.
-{{</hint>}}
+> [!DANGER]
+> **Vorsicht!**
+> Nicht alle Asseln sind für ein Skolopender-Terrarium geeignet. Einige Armadillidium-Arten fressen alles an, auch den Skolopender. Gerade während und nach der Häutung sind Skolopender sehr ungeschützt. Darum sollte man lieber komplett auf gewisse Asseln verzichten.
 
 ## Weiße Asseln
 

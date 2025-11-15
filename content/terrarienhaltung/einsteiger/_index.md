@@ -36,9 +36,8 @@ Derweil erfahrene Halter das Verhalten ihrer Tiere kennen und einschätzen könn
 
 Sollte man kein Glassterrarium für die Unterbringung wählen, etwas aus Gewichtsgründen, oder weil der Skolopender noch im Wachstum ist, und noch nicht die passende Größe für sein finales Terrarium erreicht hat, so bieten sich Plastikdosen mit fest verschließendem Deckel, wie etwa die bekannten BraPlast-Dosen, oder mit Verschlussclips für den Deckel an.
 
-{{<hint info>}}
-Mehr Informationen zur optimalen Größe und den Anforderungen an ein [Terrarium für Skolopender](../terrarium/).
-{{</hint>}}
+> [!NOTE]
+> Mehr Informationen zur optimalen Größe und den Anforderungen an ein [Terrarium für Skolopender](../terrarium/).
 
 ## Fütterungsintervalle und Futterauswahl
 
@@ -52,9 +51,8 @@ An dieser Stelle muss man etwas Gespür für sein Tier bekommen. Dazu kann man F
 
 Auch wenn Skolopender einen schlechten Ruf als gierige Allesfresser haben, eignen sich manche Futtertiere besser als andere. Beispielsweise große Schabenarten mit kräftigen Beinen und starken Bedornungen an diesen, bieten mehr Verletzungsrisiko als notwendig. Auch das effektreißerische Verfüttern von lebenden Wirbeltieren wie Mäusen sollte man unterlassen. Zum einen kann eine lebendige Maus auch einen Hundertfüßer verletzen. Zum anderen ist das Verfüttern von lebenden Wirbeltieren in Deutschland auch verboten. 
 
-{{<hint info>}}
-Eine Übersicht von Futtermöglichkeiten findet sich in der Unterseite zu [Futter](/futter).
-{{</hint>}}
+> [!NOTE]
+> Eine Übersicht von Futtermöglichkeiten findet sich in der Unterseite zu [Futter](/futter).
 
 ## Einstieg mit juvenilen Skolopendern: Pedelings
 
@@ -72,10 +70,8 @@ Allerdings ist die Aufzucht von Skolopendern zuweilen ein frustrierendes Unterfa
 
 Doch das soll nun niemanden abschrecken mit Pedelings in das Hobby einzusteigen! Man sollte sich lediglich bewusst sein, dass die Aufzucht von jungen Skolopendern durchaus frustrierend sein kann, und Tiere schon mal ohne ersichtlichen Grund versterben. Im besten Fall wird man jedoch damit belohnt, dass man sein Tier aufwachsen sieht und viele Jahre Spaß an seinem Schützling haben kann.
 
-{{<hint info>}}
-Um die Gefahren für den jungen Hundertfüßer durch Verletzungen durch Futtertiere zu minimieren, empfehlen wir das Verfüttern von toten Futtertieren.
-{{</hint>}}
-
+> [!NOTE]
+> Um die Gefahren für den jungen Hundertfüßer durch Verletzungen durch Futtertiere zu minimieren, empfehlen wir das Verfüttern von toten Futtertieren.
 
 ## Geeignet Arten für den Einstieg in die Skolopenderhaltung
 
@@ -131,9 +127,9 @@ Auch ansonsten ist die Art sehr pflegeleicht, frisst gerne und viel und zeigt si
 
 Erwachsene Tiere erreichen eine Größe von ca. 18cm. Allerdings nur die Weibchen. Männliche Tiere werden nur 3 Jahre alt und erreichen in dieser Zeit eine Körperlänge von ca. 10cm. Bis die Weibchen adult sind, und ihre endgültige Größe erreicht haben, vergehen ca. 6 Jahre.
 
-{{<hint info>}}
-[Zur Pflegeanleitung von Ethmostigmus pygomenasoides.](/caresheets/ethmostigmus_pygomenasoides)
-{{</hint>}}
+> [!NOTE]
+> [Zur Pflegeanleitung von Ethmostigmus pygomenasoides.](/caresheets/ethmostigmus_pygomenasoides)
+
 
 ### Rhysida longipes
 
@@ -148,11 +144,8 @@ Erwachsene Tiere erreichen eine Größe von ca. 18cm. Allerdings nur die Weibche
 **Rhysida longipes** wird ca. 8cm lang und kann sehr einfach gehalten werden. Mancher Halter berichtet sogar von erfolgreicher kommunaler Haltung oder Haltung zusammen mit anderen Gattungen wie etwa Tausendfüßern. Leider ist dieser Skolopender sehr scheu und nervös. Meist verbringt **Rhysida longipes** die Zeit tief vergraben im Erdreich und ist maximal in der Nacht aktiv. Bei geringster Störung flüchtet die Art gar panisch.
 {{<clearfix>}}
 
-{{<hint info>}}
-[Zur Pflegeanleitung von Rhysida longipes.](/caresheets/rhysida_longipes/)
-{{</hint>}}
-
-
+> [!NOTE]
+> [Zur Pflegeanleitung von Rhysida longipes.](/caresheets/rhysida_longipes/)
 
 ### Scolopendra dehaani
 
@@ -170,10 +163,9 @@ Das Temperament von **Scolopendra dehaani** bietet im Gegensatz zu den Haltungsp
 
 {{<clearfix>}}
 
-{{<hint info>}}
-[Zur Pflegeanleitung für Scolopendra dehaani "Cherry Red"](/caresheets/scolopendra_dehaani/cherry_red/)
-
-[Zur Pflegeanleitung für Scolopendra dehaani "Yellow Leg" und "Orange Leg"](/caresheets/scolopendra_dehaani/leg_morphs/)
-{{</hint>}}
+> [!NOTE]
+> [Zur Pflegeanleitung für Scolopendra dehaani "Cherry Red"](/caresheets/scolopendra_dehaani/cherry_red/)
+> 
+> [Zur Pflegeanleitung für Scolopendra dehaani "Yellow Leg" und "Orange Leg"](/caresheets/scolopendra_dehaani/leg_morphs/)
 
 {{<no-affiliate>}}

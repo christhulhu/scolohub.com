@@ -12,9 +12,9 @@ Obschon Hundertfüßer eigentilch sehr versteckt in Naturgebieten wie Wäldern o
 
 Selbst in Deutschland scheint man nicht ganz sicher, 2017 wurde ein Biss durch **Scolopendra morsitans** beschrieben, der als blinder Passagier aus dem Urlaub mitgebracht wurde, und einen Nachbarn verletzt hat.[^2017-decker]
 
-{{<hint info>}}
-[Mehr über das Gift von Skolopendern](../toxizitat)
-{{</hint>}}
+> [!NOTE]
+> [Mehr über das Gift von Skolopendern](../toxizitat)
+
 
 ## Betrachtung in Medizin und Forschung
 

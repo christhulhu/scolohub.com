@@ -57,9 +57,9 @@ Die **Maxillipeden** werden nicht zu den Beinpaaren gezählt.
 
 {{<clearfix>}}
 
-{{<hint info>}}
-[Mehr über die Giftklauen und das Gift von Skolopendern](../toxizitat)
-{{</hint>}}
+> [!NOTE]
+> [Mehr über die Giftklauen und das Gift von Skolopendern](../toxizitat)
+
 
 ## Beine
 

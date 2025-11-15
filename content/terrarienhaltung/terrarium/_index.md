@@ -9,9 +9,8 @@ weight: 100
 
 ### Sicherheit
 
-{{<hint danger>}}
-Skolopender sind Ausbruchskünstler!
-{{</hint>}}
+> [!DANGER]
+> Skolopender sind Ausbruchskünstler!
 
 Darum sollte ein Terrarium für einen Skolopender besonders gesichert sein. Für Anfänger werden keine Terrarien mit Front- oder Falltüren empfohlen, die häufig in der Spinnenhaltung verwendet werden. Vielmehr sollte ein Terrarium für Hundertfüßer von oben zu öffnen sein, damit die flinken Tiere nicht schnell durch die geöffnete Türe abhauen können. Da Hundertfüßer nicht an glatten Flächen klettern können, kann eine Öffnung im Terrariendeckel allerhöchstens erreicht werden, wenn der Skolopender Klettermöglichkeiten hat, oder an der Silikonnaht des Beckens hochklettert.
 
@@ -34,9 +33,8 @@ Eine simple Faustformel für die minimale Terrariengröße ist:
 
 Dabei wird die Höhe bewusst großzügig gestaltet, damit man ausreichend Substrat zum Vergraben bereitstellen kann, und der Skolopender nicht einfach durch die Öffnung im Deckel herausklettern kann.
 
-{{<hint info>}}
-Größenempfehlungen für einige Arten finden sich in unseren [Pflegeanleitungen](/caresheets).
-{{</hint>}}
+> [!NOTE]
+> Größenempfehlungen für einige Arten finden sich in unseren [Pflegeanleitungen](/caresheets).
 
 ## Unterbringung von juvenilen Skolopender
 

@@ -7,9 +7,9 @@ type: page
 
 # Taxonomie der Ordnung Scolopendromorpha
 
-{{<hint "warning">}}
-Dieser Abschnitt befindet sich noch im Aufbau. Alle Inhalte sind aktuell lediglich eine öffentliche Beta-Vorschau.
-{{</hint>}}
+> [!WARNING]
+> Dieser Abschnitt befindet sich noch im Aufbau. Alle Inhalte sind aktuell lediglich eine öffentliche Beta-Vorschau.
+
 
 {{<mermaid>}}
 flowchart TD

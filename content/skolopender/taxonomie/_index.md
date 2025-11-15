@@ -12,9 +12,9 @@ Unter dem Begriff Skolopender versteht man also nicht zwangsläufig Tiere aus de
 
 Auf dieser Seite gibt es einen Überblick über die Verwandschaftsverhältnise von Hundertfüßern und ihren Ordnungen.
 
-{{<hint "info">}}
-Wissenschaftliche Namen in der Biologie sind nicht ausschließlich lateinisch, obwohl sie oft so bezeichnet werden. Sie basieren auf dem binären Nomenklatursystem, das von Carl Linnaeus (1707-1778) eingeführt wurde, einem schwedischen Naturforscher, der oft als Vater der modernen Taxonomie bezeichnet wird. Dieses System verwendet eine Kombination aus Gattungs- und Artnamen (beide oft in Latein oder Griechisch), um eine eindeutige Bezeichnung für jede Art zu schaffen. Es ist wichtig zu beachten, dass, obwohl viele dieser Namen lateinische Wurzeln haben, sie oft "Lateinisierungen" von Wörtern aus anderen Sprachen sind, einschließlich der Namen von Personen (z.B. Scolopendra dawydoffi) und Orten (z.B. Scolopendra japonica). Daher sind sie nicht streng lateinisch, sondern eine Mischung aus vielen Sprachen, die in einer Weise strukturiert sind, die der lateinischen Grammatik ähnelt.
-{{</hint>}}
+> [!NOTE]
+> Wissenschaftliche Namen in der Biologie sind nicht ausschließlich lateinisch, obwohl sie oft so bezeichnet werden. Sie basieren auf dem binären Nomenklatursystem, das von Carl Linnaeus (1707-1778) eingeführt wurde, einem schwedischen Naturforscher, der oft als Vater der modernen Taxonomie bezeichnet wird. Dieses System verwendet eine Kombination aus Gattungs- und Artnamen (beide oft in Latein oder Griechisch), um eine eindeutige Bezeichnung für jede Art zu schaffen. Es ist wichtig zu beachten, dass, obwohl viele dieser Namen lateinische Wurzeln haben, sie oft "Lateinisierungen" von Wörtern aus anderen Sprachen sind, einschließlich der Namen von Personen (z.B. Scolopendra dawydoffi) und Orten (z.B. Scolopendra japonica). Daher sind sie nicht streng lateinisch, sondern eine Mischung aus vielen Sprachen, die in einer Weise strukturiert sind, die der lateinischen Grammatik ähnelt.
+
 
 ## Der Unterstamm Myriapoda
 
@@ -47,11 +47,7 @@ Die fünf Ordnungen der Chilopoda:
 Derweil findet man in ganz Deutschland viele Arten der **Lithobiomorpha** und **Geophilomorpha** in Garten und Wald, während man Tiere aus den Ordnungen **Scutigeromorpha** und auch **Scolopendromorpha** nur in einzelnen Regionen nachweisen kann. Wer sich mehr für die einheimischen Hundertfüßer interessiert, bekommt auf der Webseite [bodentierhochvier.de](https://bodentierhochvier.de/) weitere Informationen.
 
 ## Die Ordnung Scolopendromorpha
-<!--
-{{<hint "info">}}
-[Hier findet sich die vollständige Übersicht der Taxonomie der Ordnung Scolopendromorpha](scolopendromorpha)
-{{</hint>}}
--->
+
 {{<figure 
   src="images/taxonomie_scolopendromorpha_families.png"
   link="images/taxonomie_scolopendromorpha_families.png"

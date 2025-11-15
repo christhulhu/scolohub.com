@@ -76,9 +76,8 @@ Folgende Arten bieten sich für die Bepflanzung von Regenwaldterrarien besonders
 
 Alle 4 Arten haben keine hohen Ansprüche an die Beleuchtung und Temperatur (sprich herkömmliche Terrarienbeleuchtung und Zimmertemperatur). Zusätzlich mögen diese eine hohe Luftfeuchtigkeit bei feuchtem aber nicht staunassem Substrat. Die Vermehrung erfolgt vegetativ (ungeschlechtlich) durch Ausläufer bzw. Stolonen bei der Grünlilie.
 
-{{<hint "info">}}
-Zur [Vermehrung von Terrarienpflanzen aus Stecklingen](stecklinge).
-{{</hint>}}
+> [!NOTE]
+> Zur [Vermehrung von Terrarienpflanzen aus Stecklingen](stecklinge).
 
 ## Wasserquelle
 

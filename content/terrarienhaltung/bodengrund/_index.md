@@ -54,9 +54,8 @@ Bodengrund aus dem Wald- oder Garten kann nur mit einigen Hinweisen empfohlen we
 
 Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute sterilisieren die Erde im Tiefkühlschrank oder im Backofen, bevor sie diesen Bodengrund verwenden. Andere schwören auf die Zusammensetzung und das Ökosystem.
 
-{{<hint info>}}
-Mehr zu den [Mitbewohnern im Terrarium](../mitbewohner).
-{{</hint>}}
+> [!NOTE]
+> Mehr zu den [Mitbewohnern im Terrarium](../mitbewohner).
 
 ### Lehm
 

@@ -104,11 +104,10 @@ Offiziell hat Scolopendra dehaani fünf anerkannte Farbmorphen:[^2016-siriwut]
 
 Im Hobby befinden sich noch weitere Arten, die Scolopendra dehaani zugeordnet werden, beispielsweise "Java Black". Allerdings ist die genaue Artenzugehörigkeit noch nicht wissenschaftlich belegt.
 
-{{<hint "warning">}}
-**Anmerkung zu Farbbeschreibungen aus wissenschaftlichen Artbeschreibungen**
-
-Artbeschreibungen werden häufig an konservierten Tieren durchgeführt. Die Konservierungsmittel haben mitunter negative Eigenschaften auf die Pigmentierungen der Hundertfüßer, die Farben verblassen oder verfälschen komplett. Darum werden viele Skolopender in ihren Erstbeschreibungen als "bräunlich" beschrieben, was bei lebenden Tieren nicht zwangsläufig zutrifft. Oftmals haben die lebende Hundertfüßer schillernde Farben, die gänzlich von der Beschreibung abweicht.
-{{</hint>}}
+> [!WARNING]
+> **Anmerkung zu Farbbeschreibungen aus wissenschaftlichen Artbeschreibungen**
+>
+> Artbeschreibungen werden häufig an konservierten Tieren durchgeführt. Die Konservierungsmittel haben mitunter negative Eigenschaften auf die Pigmentierungen der Hundertfüßer, die Farben verblassen oder verfälschen komplett. Darum werden viele Skolopender in ihren Erstbeschreibungen als "bräunlich" beschrieben, was bei lebenden Tieren nicht zwangsläufig zutrifft. Oftmals haben die lebende Hundertfüßer schillernde Farben, die gänzlich von der Beschreibung abweicht.
 
 ## Taxonomie
 
