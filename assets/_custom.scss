@@ -530,3 +530,24 @@ blockquote.good {
     
     }
 }
+
+.revision-hint {
+    border-color: #FF0;
+    background-color: rgba(255,255, 0, 0.1);
+    border: solid 2px #FF0;
+    display: flex;
+    
+
+    img {
+        width: 33%;
+        max-width: 200px !important;
+        height: 100%; // Oder eine feste Höhe, z.B. 150px
+        object-fit: contain; // Fügt dies hinzu, um die Proportionen zu erzwingen
+        box-shadow: none;
+    }
+    div {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-right: 1em;
+    }
+}
