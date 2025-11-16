@@ -12,6 +12,16 @@ Um diesem Mangel an Informationen entgegenzuwirken, soll ScoloHub.com eine zentr
 
 ---
 
+Letzte Aktualisierungen (2025-11-16):
+
+- [Mitbewohner](/terrarienhaltung/mitbewohner/)
+- [Krankheiten](/krankheiten)
+- [Einrichtung](/terrarienhaltung/einrichtung/)
+- [Bodengrund und Klima](/terrarienhaltung/bodengrund/)
+- [Terrarien](/terrarienhaltung/terrarien/)
+
+---
+
 {{< section_summary 
     more_link="[Mehr Informationen über Skolopender](skolopender)"
     title="Skolopender"
