@@ -1,57 +1,30 @@
 ---
 title: Einrichtung
 weight: 300
+in_revision: false
 ---
 
-# Einrichtung im Terrarium
+# Einrichtung des Skolopender-Terrariums
 
-{{<figure 
-  src="./images/dekoration-hero.jpg" 
-  alt="Einrichtung eines Beckens für Scolopendra dehaani" 
-  title="Einrichtung eines Beckens für Scolopendra dehaani"
->}}
+Die Einrichtung eines Skolopender-Terrariums muss nicht übermäßig komplex sein, jedoch trägt die richtige Auswahl von Verstecken, Strukturen und gegebenenfalls Pflanzen dazu bei, den Tieren eine artgerechte Umgebung zu bieten. Es gilt, den natürlichen Lebensraum der Tiere nachzuahmen, wobei ihre spezifischen Bedürfnisse und Vorlieben stets berücksichtigt werden sollten.
 
+## Versteckmöglichkeiten
 
-Eigentlich legen Skolopender keinen besonderen Anspruch auf die Einrichtung im Terrarium. Doch es gibt Ausnahmen. Einige Arten klettern gerne, leben gar arboreal. Andere Arten leben semi-aquatisch und man muss zur Haltung fast ein Paludarium einrichten.  
-Dennoch gibt es ein paar grundsätzliche Einrichtungshinweise, die weitestgehend für alle Skolopender gelten.
+Da Skolopender von Natur aus eher das Tageslicht meiden und sich häufig im Substrat vergraben, sind geeignete Versteckmöglichkeiten unerlässlich. Der wichtigste Aspekt der Einrichtung ist daher, dem Tier ausreichend Rückzugsmöglichkeiten zu bieten, damit es sich sicher fühlt. Das am häufigsten verwendete Material für Verstecke ist **Korkrinde**, die in verschiedenen Formen und Größen im Fachhandel erhältlich ist. et sowohl eine gute Versteckmöglichkeit als auch eine natürliche Ästhetik. Der Unterschlupf sollte groß genug sein, damit sich das Tier darin oder darunter komplett verstecken kann. Bei löchriger Korkrinde ist darauf zu achten, dass kleine Arten und Jungtiere sich nicht darin verkriechen, stecken bleiben oder gar verenden.
 
-## Verstecke
+Alternativ können auch flache und leicht gebogene **Rindenstücke** aus dem Wald verwendet werden (z. B. Buche, Pappel, Eiche), wobei darauf geachtet werden sollte, dass sie frei von Schimmel oder ungebetenen Gästen sind. Ebenfalls gut geeignet sind flache **Steine** oder **Schieferplatten**, allerdings sollte darauf geachtet werden, dass diese keine scharfen Kanten aufweisen und das Tier beim Graben nicht verletzen oder zerquetschen können.
 
-{{<figure 
-  src="./images/korkrinde.jpg" 
-  alt="Korkrinde"
-  title="Korkrinde" 
-  class="fig-left"  
-  width="300px" 
->}}
+**Wurzelholz** und **Aststücke** sind ebenfalls eine hervorragende Möglichkeit, das Terrarium zu bereichern. Sie bieten nicht nur Verstecke, sondern auch Strukturen zum Klettern und Erkunden. Ihre Unregelmäßigkeit sorgt für eine optische Aufwertung des Terrariums und schafft ein interessantes Habitat für die Skolopender.
 
-Die meisten Skolopender leben als Bodenbewohner. Meist versteckt und vergraben. Darum sollten ausreichend geeignete Versteckmöglichkeiten für das Tier vorhanden sein.
-
-Die wohl verbreitetste Möglichkeit stellt **Korkrinde** dar. Diese ist günstig in allerlei Formen und Großen im Fachhandel erhältlich.
-
-Alternativ können auch andere **Rindenstücke**, beispielsweise aus dem Wald, als Versteckmöglichkeiten verwendet werden.
-
-Flache **Steine** oder **Schiefer** sind als Versteck ebenso möglich. Hier sollte aber darauf geachtet werden, dass diese beim Untergraben keine Verletzungsgefahr für das Tier darstellen. Auch Bruchstücke von **Tontöpfen** für Pflanzen kann man verwenden. 
-
-**Wurzelholz** oder auch **Ast-Stücke** können gleichzeitig als Verstecke dienen, wie sie auch aktiven Arten eine Möglichkeit zum Klettern geben. Gerade Scolopendra dehaani nutzt diese Möglichkeiten sehr gerne.
-
-{{<figure 
-  src="./images/wurzelholz.jpg" 
-  alt="Scolopendra dehaani versteckt sich in Wurzelholz" 
-  title="Scolopendra dehaani versteckt sich in Wurzelholz" 
->}}
+**Abgestorbene, trockene Grasbüschel** können als Dekoelemente das Wüstenterrarium bereichern. Sie verleihen dem Terrarium ein authentisches Aussehen, das an trockene Steppen oder Wüstenlandschaften erinnert.
 
 ## Bepflanzung
 
-Wenn man Pflanzen in das Terrarium setzen will, dann sollten diese an den Lebensraum des Skolopenders angepasst werden. Ein Kaktus ist wohl kaum die geeignete Bepflanzung für ein Tier aus dem Regenwald. Ebenso wird man Moos wohlkaum in einer Wüstenregion finden.
+Eine Bepflanzung im Terrarium ist für Skolopender nicht zwingend erforderlich, kann jedoch das Mikroklima stabilisieren und das Habitat für die Tiere bereichern. Pflanzen verbessern nicht nur das visuelle Erscheinungsbild, sondern schaffen auch eine natürliche Atmosphäre und zusätzliche Versteckmöglichkeiten. Besonders in Regenwaldterrarien können sie helfen, ein naturnahes Umfeld zu gestalten. Entscheidet man sich für eine Bepflanzung, ist es zwingend erforderlich, eine Beleuchtung anzubringen.
 
-{{< hint "danger" >}}
-Gleichsam sollte man das Verletzungsrisiko im Auge behalten! **Kakteen** oder **Agaven** mögen schön aussehen. Doch die Stacheln und Spitzen blätter bergen hohes Verletzungsrisiko für das Tier. Hier sollte man eher auf die Bepflanzung verzichten. 
-{{< / hint >}}
+Es ist jedoch wichtig, Pflanzen auszuwählen, die an die Lebensbedingungen der Skolopender angepasst sind und robust genug sind, um auch die Grabaktivitäten der Hundertfüßer zu überstehen. Da viele Pflanzenarten mit Chemikalien oder Pestiziden belastet sein können, die für die Tiere schädlich sind, sollten ausschließlich **unbehandelte Pflanzen** verwendet werden. Diese können entweder auf Terraristikbörsen erworben oder selbst aus Ablegern und Stecklingen gezogen werden.
 
-Für tropische und subtropische Arten eignen sich eigentlich immer (kleine) **Farne** und **Moos**, da diese oftmals mit der Substratfeuchtigkeit gut klar kommen und nicht unbedingt viel Sonnenlicht benötigen. Gerade Moos hilft bei der Speicherung von Feuchtigkeit im Bodengrund und dient somit auch als Quelle für Nahrung und Wasser für das Tier. Beim Farn muss man jedoch hin und wieder mal mit der Schere ran, sollte die Pflanze zu groß werden.
-
-### Terrarienbepflanzung für Regenwald-Terrarien
+### Pflanzen für Regenwaldterrarien
 
 {{<figure 
   src="./images/bepflanzung.jpg" 
@@ -60,40 +33,26 @@ Für tropische und subtropische Arten eignen sich eigentlich immer (kleine) **Fa
   attr="{{<contributors/marcel>}}"
 >}}
 
-Hundertfüßer sind nicht zwingend auf Pflanzen in ihren Behältern angewiesen, jedoch erhält man durch diese ein stabileres Mikroklima, mehr Versteckmöglichkeiten und Deckung sowie eine optische Aufwertung. Vor allem in Regenwaldterrarien kann man den Tieren mit einer guten Bepflanzung ein naturnahes Umfeld bieten.
+Für tropische und subtropische Arten bieten sich Pflanzen an, die mit hoher Luftfeuchtigkeit gut zurechtkommen und nicht viel Licht benötigen. Besonders geeignet sind Pflanzen wie:
 
-Pflanzen aus dem Baumarkt oder herkömmlichen Gärtnereien sind in der Regel mit Pestiziden und/oder anderen Chemikalien belastet und sollten nicht ohne weiteres in das Terrarium eingebracht werden. Es gibt zum einen die Möglichkeit unbehandelte Pflanzen auf Terraristik-Börsen zu erwerben oder aber man kann sich auch mit nur wenig Aufwand selbst Pflanzen aus Ablegern und Stecklingen ziehen.
+- **Kletterfeige** (_Ficus pumila_): Eine kleinblättrige, ungiftige Pflanze aus Asien, die sowohl als Kletterpflanze als auch als Bodendecker wächst. Sie kommt mit wenig Licht aus und fördert ein gutes Mikroklima.
+- **Efeutute** (_Epipremnum _aureum): Diese kletternde Pflanze aus der Familie der Aronstabgewächse ist in tropischen Gebieten weit verbreitet und kann horizontal und vertikal wachsen. Sie ist sehr resistent und pflegeleicht.
+- **Gefleckte Efeutute** (_Scindapsus pictus_): Ebenfalls eine kletternde Pflanze aus den tropischen Regionen Asiens. Sie hat samtige, gemusterte Blätter und verträgt eine hohe Luftfeuchtigkeit.
+- **Grünlilie** (_Chlorophytum comosum_): Eine beliebte Zimmerpflanze aus Afrika, die sich rasch über Kindelbildung vermehrt. Sie benötigt wenig Licht und eignet sich hervorragend für hohe Luftfeuchtigkeit bei feuchtem, aber nicht staunendem Substrat.
+ 
+Diese Pflanzenarten sind robust und stellen keine hohen Anforderungen an die Beleuchtung oder Temperatur. Sie gedeihen gut unter den üblichen Bedingungen im Terrarium (Zimmertemperatur und normale Terrarienbeleuchtung). Die Vermehrung dieser Arten erfolgt vegetativ durch Ausläufer oder Kindel.
 
-Folgende Arten bieten sich für die Bepflanzung von Regenwaldterrarien besonders gut an, da es sich um robuste und Büro- und Zimmerpflanzen handelt: 
+Pflanzen und Moose können ebenfalls verwendet werden, jedoch ist zu beachten, dass viele tropische Arten erst dann richtig gedeihen, wenn der Boden dauerhaft feucht und die Luftfeuchtigkeit hoch ist. Diese Bedingungen stehen jedoch im Gegensatz zu den Bedürfnissen von Hundertfüßern, die auf eine gute Luftzirkulation angewiesen sind.
 
-**Kletterfeige** (Ficus pumila):  Eine kleinblättrige ungiftige Gummibaumart aus Asien, die sowohl kletternd als auch bodendeckend wächst.
+### Pflanzen für Wüstenterrarien
 
-**Efeutute** (Epipremnum aureum): Eine horizontal und vertikal rankende Pflanze aus der Gruppe der Aronstabgewächse (Araceae), die mittlerweile in zahlreichen tropischen Gebieten verbreitet ist. 
+Für Arten aus Wüsten und anderen ariden Gebieten bieten sich vor allem Sukkulenten an, also Pflanzen, die mit hoher Trockenheit gut zurechtkommen. In der Regel benötigen diese Arten viel Licht, um zu wachsen. Geeignet sind zum Beispiel:
 
-**Gefleckte Efeutute** (Scindapsus pictus): Ebenfalls ein Vertreter der Araceen aus den subtropischen und tropischen Raum Asiens mit samtigen, gemusterten Blättern.
+- **Wüstenlilie** (_Aloe spp._): Die meisten Aloe-Pflanzen stammen ursprünglich aus Afrika und sind sehr pflegeleicht. Zudem bilden sie robuste Wurzeln, die von grabenden Tieren nicht so leicht beschädigt werden.
+- **Dickblatt** (_Crassula spp._): Diese Gattung ist namensgebend für die Familie der Dickblattgewächse (Crassulaceae) und kommt fast ausschließlich aus Südafrika. Entsprechend ihrer Herkunft sind sie sehr robust gegenüber Trockenheit und Hitze. Einige wenige Arten kommen jedoch auch weltweit vor, und es handelt sich dabei interessanterweise um Sumpf- und Wasserpflanzen.
+- **Mexikanische Rose** (_Echeveria spp._): Diese Gattung ist in Süd- und Mittelamerika beheimatet, mit einem Schwerpunkt in Mexiko. Im Vergleich zu vielen anderen Pflanzenarten sind sie relativ resistent gegenüber häufigen Pflegefehlern wie zu viel oder zu wenig Wasser, was sie besonders für Anfänger in der Terrarienpflege attraktiv macht.
+- **Mauerpfeffer** oder **Fetthenne** (_Sedum spp._): Dies ist die größte Gattung innerhalb der Dickblattgewächse (Crassulaceae). Ihre Verbreitung erstreckt sich über tropische und subtropische Gebiete der Nordhalbkugel. Sedum kommt gut mit wenig Pflege und seltenem Gießen zurecht.
 
-**Grünlilie** (Chlorophytum comosum): Die Grünlilie stammt aus Afrika, ist horstbildend und hat je nach Sorte mehr oder weniger ausgeprägte Grünweiß gestreifte Blätter.
+### Ungeeignete Pflanzen
 
-Alle 4 Arten haben keine hohen Ansprüche an die Beleuchtung und Temperatur (sprich herkömmliche Terrarienbeleuchtung und Zimmertemperatur). Zusätzlich mögen diese eine hohe Luftfeuchtigkeit bei feuchtem aber nicht staunassem Substrat. Die Vermehrung erfolgt vegetativ (ungeschlechtlich) durch Ausläufer bzw. Stolonen bei der Grünlilie.
-
-> [!NOTE]
-> Zur [Vermehrung von Terrarienpflanzen aus Stecklingen](stecklinge).
-
-## Wasserquelle
-
-Egal ob nun ein Skolopender aus humiden oder ariden Regionen, eine Zugänglichkeit zu Trinkwasser ist immer notwendig. Dazu kann man die üblichen Terrarien-Näpfe aus dem Fachhandel nehmen, oder auch kleine Schälchen oder Deckel von Wasserflaschen - je nach Größe von Tier und Terrarium.  
-Natürlich sollten die Trinkmöglichkeiten so dimensioniert sein, dass der Skolopender darin nicht ertrinken kann.
-
-## Klettermöglichkeiten
-
-{{<figure 
-  src="./images/klettermoglichkeit.jpg" 
-  alt="Wurzelholz als Klettermöglichkeit für Scolopendra dehaani" 
-  title="Wurzelholz als Klettermöglichkeit für Scolopendra dehaani"
-  width="400"
-  class="fig-left"
->}}
-Nicht alle Skolopender klettern gerne. Es gibt einige Arten, die leben ausschließlich auf oder gar im Boden. Aber es gibt auch einige Arten, die sehr gerne klettern oder gar hauptsächlich auf Bäumen leben. Für diese Arten empfiehlt sich mindestens das Hinzufügen von Wurzeln oder Ästen in das Terrarium. Wenn nicht sogar das Gestalten einer kompletten Kletter-Rückwand.  
-
-Hier sollte jedoch kein falscher Aktionismus vom Halter erfolgen, sondern man sollte sich über die Anforderungen der jeweiligen Art informieren.
-
+Vorsicht bei der Wahl der Pflanzen: **Kakteen** oder **Agaven** sind zwar optisch reizvoll, stellen jedoch ein hohes Verletzungsrisiko für Skolopender dar. Stacheln, Dornen, Borsten, gesägte Blattränder oder andere Bewehrungen können den Tieren ernsthaften Schaden zufügen. Daher sollte man auf solche Pflanzen im Terrarium verzichten.
