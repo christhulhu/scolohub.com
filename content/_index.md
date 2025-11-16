@@ -7,7 +7,7 @@ title: ScoloHub.com
 
 Hundertfüßer sind faszinierende und einzigartige Wesen, jedoch genießen sie in der Wissenschaft und Terrarienhaltung nicht die erhoffte Aufmerksamkeit. Stattdessen existieren zahlreiche Mythen und Vorurteile über diese Tiere, und konkrete Informationen sind in der Literatur und im Internet leider nur spärlich vorhanden.
 
-Um diesem Mangel an Informationen entgegenzuwirken, soll ScoloHub.com eine zentrale Quelle für Wissen über Skolopender und ihre Terrarienhaltung werden. Obwohl sich die Seite derzeit im Aufbau befindet, wird sie kontinuierlich gepflegt und erweitert. Wir bieten bereits grundlegende Informationen für Neueinsteiger in das Hobby an und freuen uns über jede [Beteiligung an dieser Seite](about) sowie über den Informationsaustausch in unseren WhatsApp-Gruppen.
+Um diesem Mangel an Informationen entgegenzuwirken, soll ScoloHub.com eine zentrale Quelle für Wissen über Skolopender und ihre Terrarienhaltung werden. Obwohl sich die Seite derzeit im Aufbau befindet, wird sie kontinuierlich gepflegt und erweitert.
 
 
 ---
