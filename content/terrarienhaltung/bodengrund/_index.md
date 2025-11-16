@@ -1,96 +1,75 @@
 ---
-title: Bodengrund
+title: Bodengrund und Klima
 weight: 200
+in_revision: false
+aliases:
+- /terrarienhaltung/klima/
 ---
 
-# Bodengrund im Terrarium
+# Bodengrund und Klima
 
-Es gibt leider keinen allgemeingültigen Bodengrund für Skolopender. Die Zusammensetzung und Beschaffenheit variiert von Art zu Art und zu deren Herkunft und natürlichem Habitat.
+Skolopender bewohnen je nach Art unterschiedlich feuchte oder trockene Böden. Daher ist es wichtig, den Bodengrund im Terrarium so zu wählen, dass er sowohl Feuchtigkeit speichert als auch gute Grabbedingungen bietet. Viele Skolopender vergraben sich im Substrat, um sich zu verstecken oder ihre Eier abzulegen.
+Die Substrathöhe sollte mindestens das Doppelte der Körperbreite des Tieres betragen. Es gibt keine feste Obergrenze für die Höhe, jedoch sollte der Abstand zur Terrarienkante beachtet werden, um Ausbrüche zu vermeiden. Ob eine hohe oder niedrige Substratschicht besser ist, wird oft diskutiert.
 
-Darum sollte man sich Fotos von der Herkunftsregion seines Tieres im Internet anschauen. Eine gute Quelle für die Dokumentation von Skolopendern in freier Wildbahn ist [iNaturalist.org](https://inaturalist.org/). Dort findet man viele Arten und kann in der Bildergalerie auch auf die Fundorte filtern. Jedoch sei auch Vorsicht geboten! Nicht jede Bestimmung auf dieser Seite ist korrekt.
+**Vorteile einer hohen Substratschicht:**
 
-## Der richtige Bodengrund für Skolopender
+- Weniger Störung für Tiere, die sich häuten oder brüten.
+- Längere Zeiträume mit stabilen Feuchtigkeitsbedingungen.
+- Bietet mehr Versteckmöglichkeiten und fördert natürliche Verhaltensweisen.
 
-Meist besteht der richtige Bodengrund für Skolopender in der Terrarienhaltung nicht nur aus einer Komponente, sondern ist eine Mischung aus unterschiedlichen Bestandteilen, die je nach Herkunft des Tieres variieren:
+**Vorteile einer niedrigen Substratschicht:**
 
-- **Humus oder Torf** Zersetzter Bodengrund aus Pflanzenresten. Dies ist der typische Waldboden und bietet ein gutes Mikroklima, auch für Mikroorganismen wie "Bodenpolizei".
-- **Sand** zum Auflockern des Bodengrunds und zur Verbesserung der Wasserleitfähigkeit. Bei manchen Wüsten-Arten darf Sand auch den Hauptteil des Substrates ausmachen.
-- **Lehm**, wenn es die Herkunft des Tieres verlangt. Lehm sollte jedoch nicht als alleiniger Bodengrund dienen, sondern durch Humus, Torf oder Erde sollte Grabfähigkeit und Wasserspeicherung gewährleistet werden.
+- Bessere Sichtbarkeit und Kontrolle des Tieres, besonders bei Arten, die erhöhte Aufmerksamkeit erfordern.
+- Geringere Gefahr von Staunässe, da der Boden schneller abtrocknen kann.
+- Erleichtert das Überwachen des Tieres, ohne das Substrat ständig zu verändern.
 
-Auf das eigentliche Substrat sollte man zusätzlich **Laub** auslegen. Dies dient der Feuchtigkeitsspeicherung im Substrat selber, imitiert den natürlichen Lebensraum des Tieres und dient zuweilen gar als Nahrung für manche Arten.  
-Geeignetes Laub kommt z.B. von **Buche** oder **Eiche**.
+Die optimale Substrathöhe richtet sich auch nach den spezifischen Bedürfnissen der jeweiligen Art. Scolopendra alternans und Scolopendra gracillima verbringen viel Zeit eingegraben im Boden und profitieren von einer dicken Substratschicht. Scolopendra subcrustalis hingegen lebt hauptsächlich arboreal und versteckt sich bevorzugt in Totholz, sodass die Substrathöhe hier keine große Rolle spielt.
 
-Da die meisten Skolopender grabende Bodenbewohner sind, sollte die Substrathöhe dieser Lebensweise gerecht werden.
+## Bodengrund
 
-## Gute Bestandteile für Bodengrund
+Ein gut geeignetes Substrat für die meisten Skolopender besteht aus einer Mischung aus Torf (75%) und Sand (25%). Diese Kombination bietet eine gute Balance zwischen Feuchtigkeitsspeicherung, Grabfähigkeit und Stabilität.
 
-### Torf
+- Torf sorgt für eine lockere Struktur, speichert Feuchtigkeit und fördert ein stabiles Mikroklima.
+- Sand lockert das Substrat auf, verbessert die Wasserleitfähigkeit und verhindert, dass der Boden zu stark verdichtet.
 
-Toft ist Bodengrund aus zersetzten Pflanzen aus Hochmoren. Im Weißtorf ist mehr unzersetztes Torfmoos, das eine bessere Wasserspeicherung ermöglicht. Allerdings ist Weißtorf mit einem pH-Wert von 3-4 auch sauer. Schwarztorf ist älter als Weißtorf und findet sich in tieferen Bodenschichten. Im Schwarztorf sind keine Pflanzenreste mehr erkennbar, da die Zersetzung weiter fortgeschritten ist.
+Diese Mischung eignet sich für viele Arten und kann je nach Herkunft des Tieres angepasst werden. In trockeneren Habitaten kann der Sandanteil erhöht werden, während für Arten aus feuchteren Regionen ein höherer Anteil an Torf oder anderen organischen Bestandteilen sinnvoll ist.
+Zusätzlich können weitere Substrate hinzugefügt werden, um die Eigenschaften des Bodengrunds besser an die Bedürfnisse der Tiere anzupassen:
 
-Torf eignet sich hervorragend zur Haltung von Skolopendern, weil es im Gegensatz zu Humus keine Trauermücken anzieht. Gemischt mit Sand und Lehmpulver ist es trocken und nicht komplett hydrophob, hält die Feuchtigkeit gut und bleibt sowohl nass als auch trocken grabfähig.
+- Sphagnum-Moos verbessert die Wasserspeicherung und sorgt für ein feuchteres Mikroklima.
+- Walderde und Lehm erhöhen die Grabfähigkeit und sorgen dafür, dass Gänge und angelegte Kammern stabil bleiben.
 
-### Humus
+Zusätzlich zum Substrat kann es sinnvoll sein, Laub auszulegen. Es hilft, die Feuchtigkeit im Boden zu regulieren, dient als Versteck und imitiert den natürlichen Lebensraum der Skolopender. Geeignetes Laub stammt beispielsweise von Buchen oder Eichen. Es sollte jedoch darauf geachtet werden, dass das Laub an unbelasteten Stellen gesammelt wird, um eine Kontamination mit Pestiziden oder anderen schädlichen Stoffen zu vermeiden. Nach der Ernte sollte das Laub ausreichend getrocknet werden, bevor es ins Terrarium gegeben wird, um Schimmelbildung zu verhindern.
 
-{{< figure 
-    src="./images/substrat_humus.jpg" 
-    title="Wald-Humus für Tausendfüßer" 
-    class="fig-left"  
-    width="400px" 
->}}
+## Ungeeignete Substrate
 
-Wie auch Torf ist Humus ein Bodengrund aus zersetzten Pflanzen. Für Skolopender eignet sich am besten Wald-Humus aus Buchen- oder Eichen-Wäldern. Es gibt jedoch auch dedizierten Wald-Humus für Asseln oder Tausendfüßer, der durchaus auch für Hundertfüßer geeignet ist.
+Kokoshumus steht unter Verdacht, bei Tieren, insbesondere bei Vögeln, Nagetieren, Reptilien und auch Wirbellosen, zu Darmverschlüssen führen zu können. Kokosfasern sind unverdaulich und können sich im Verdauungstrakt ansammeln, was zu einer Blockade führt. Diese Blockaden können auch bei Skolopendern auftreten und im schlimmsten Fall zum Tod führen. Des Weiteren bietet Kokos-Humus eine schlechtere Feuchtigkeitsregulation im Vergleich zu Torf. Während Torf die Feuchtigkeit effektiv speichert und eine konstante Luftfeuchtigkeit aufrechterhält, neigt Kokos-Humus dazu, bei zu hoher Feuchtigkeit schneller Schimmel zu entwickeln und bei zu wenig Feuchtigkeit schnell auszutrocknen. Diese ungleichmäßige Feuchtigkeitsverteilung kann das Mikroklima im Terrarium destabilisieren.
+Terrarien-Erde wird häufig mit Kokos-Humus vermischt, um kostengünstig Volumen zu schaffen und die Feuchtigkeit zu speichern. Dabei sollte jedoch Vorsicht walten: Es ist wichtig, sicherzustellen, dass keine Zusatzstoffe wie Kokos-Humus enthalten sind. Andernfalls können die negativen Auswirkungen auf Skolopender nicht ausgeschlossen werden.
 
-Kleiner Hinweis: Kauft man nicht-sterilisierten Humus, können aus diesem Bodengrund ungebetene Gäste ins Terrarium wandern. Asseln, Geophilomorpha und ähnliches kann Eier in dem Humus abgelegt haben, die im Terrarienklima schlüpfen und gedeihen. In der Regel stellen diese Gäste jedoch kein Problem im Zusammenleben mit dem Skolopender dar.
+Blumenerde kann aufgrund der enthaltenen Düngemittel problematisch sein. Je nach Art des Düngers können bestimmte Inhaltsstoffe gesundheitliche Schäden verursachen, insbesondere den Verdauungstrakt beeinträchtigen. Zudem enthält Blumenerde oft kompostierte Bestandteile, darunter häufig Kiefer- und Fichtenrinde. Diese können Terpene und Phenole freisetzen, die für viele Terrarientiere toxisch sind. Darüber hinaus besteht die Gefahr, dass die kompostierten Materialien Pestizid- und Fungizidrückstände enthalten, sofern sie nicht aus biologischer Herkunft stammen.
 
-{{<clearfix>}}
+## Feuchtigkeit
 
-### Wald- oder Gartenerde
+Die Feuchtigkeit des Substrats ist ein zentraler Aspekt in der Scolopendra-Haltung. Da Hundertfüßer in unterschiedlichsten Habitaten vorkommen – von tropischen Regenwäldern bis hin zu Steppen und Wüsten – sollte bei der Feuchtigkeitsregulierung stets die Herkunft des Tieres berücksichtigt werden.
 
-Bodengrund aus dem Wald- oder Garten kann nur mit einigen Hinweisen empfohlen werden:
+- Tropische Arten (z. B. Scolopendra alternans, Scolopendra dehaani): Diese Arten bevorzugen eine hohe Luftfeuchtigkeit. Das Substrat sollte stets leicht feucht, aber niemals nass sein.
+- Arten aus trockenen Regionen (z. B. Scolopendra cingulata, Scolopendra heros): Diese benötigen eine moderate Bodenfeuchte und vertragen auch trockene Phasen gut.
 
-- Entnahme von Bodengrund oder Pflanzen aus dem Wald sollte in Maßen und respektvoll erfolgen! Es ist immer noch ein Lebensraum für Tiere, den man so wenig wie möglich stören sollte! Außerdem stehen viele Tier- und Pflanzenarten unter Schutz und dürfen nicht entnommen werden. Darum sollte man verantwortungsvoll mit der Ressource Wald umgehen!
-- Im Waldboden leben diverse Organismen! Von mikroskopisch kleinen Bodenbewohner hin zu Hundertfüßer (Geophilomorpha, Lithobiomorpha), Asseln, Spinnen und auch Ameisen. Diese nimmt man mit in sein Terrarium! Wo ein gutes Ökosystem im Terrarium häufig durch eine "Bodenpolizei" aus Springschwänzen und Asseln ergänzt wird, sollte man sich dennoch bewusst sein, dass nicht alles für das Haustier gut ist. Gerade eingeschleppte Ameisen oder andere Hundertfüßer können juvenilen Skolopendern auch Schaden zufügen.
+Ein Feuchtigkeitsgradient im Terrarium ist empfehlenswert: Eine Seite des Behälters wird leicht feucht gehalten, während die andere trocken bleibt. So kann das Tier je nach Bedarf feuchtere oder trockenere Bereiche aufsuchen.
+Wichtig: Das Substrat darf nie durchnässt sein, da übermäßige Feuchtigkeit Schimmelbildung, Milbenbefall und Krankheiten begünstigt. Eine zu trockene Haltung führt hingegen schnell zu Dehydration, was besonders bei Jungtieren kritisch ist, da sie auf Schwankungen empfindlich reagieren.
+Unabhängig vom Herkunftsgebiet muss dem Skolopender jederzeit Trinkwasser zur Verfügung stehen. Dafür eignen sich handelsübliche Terrarienschalen, Blumentopf-Untersetzer oder kleine Behälter wie Flaschendeckel – jeweils angepasst an die Größe des Tieres. Wichtig ist, dass die Wasserquelle so gestaltet ist, dass das Tier nicht ertrinken kann.
 
-Aus diesen Gründen wird Walderde häufig kontrovers diskutiert. Manche Leute sterilisieren die Erde im Tiefkühlschrank oder im Backofen, bevor sie diesen Bodengrund verwenden. Andere schwören auf die Zusammensetzung und das Ökosystem.
+## Luftzirkulation
 
-> [!NOTE]
-> Mehr zu den [Mitbewohnern im Terrarium](../mitbewohner).
+Ein weiterer entscheidender Faktor ist eine gute Luftzirkulation im Terrarium: Ausreichende Frischluftzufuhr reduziert Staunässe und verhindert die oben genannten Probleme einer zu feuchten Haltung. Mangelnde Belüftung bei hoher Feuchtigkeit kann schnell Mykosen verursachen, die sich durch schwarze Verfärbungen am Körper des Tieres zeigen und lebensbedrohlich sein können. Da eine gute Luftzirkulation das Substrat schneller austrocknen lässt, sollte die Feuchtigkeit regelmäßig – idealerweise wöchentlich – überprüft und bei Bedarf nachgewässert werden.
 
-### Lehm
 
-Obschon nicht für alle Skolopender geeignet, ist für einige Arten Lehm ein großer Bestandteil des natürlichen Habitats. Beispielsweise **Scolopendra dehaani** aus Vietnam lebt u.a. in lehmreichen Gebieten. Darum sollte für manche Arten Lehm einen Teil des Substrates ausmachen.
+## Temperatur
 
-### Sand
+Die Temperatur spielt bei der Haltung von Hundertfüßern eine untergeordnete Rolle, da die meisten Arten bei normalen Raumtemperaturen von 22°-24°C gut gedeihen.
 
-{{< figure 
-  src="./images/substrat_sand.jpg" 
-  title="Sand" 
-  class="fig-left"  
-  width="400px" 
->}}
+- Wüstenarten vertragen auch höhere Temperaturen von 25°-30°C.
+- Temperierte Arten halten auch niedrigere Temperaturen aus und benötigen gegebenenfalls eine Winterruhe von mehreren Wochen bei 8°-15°C.
+- Die größten Vertreter der Gattung Scolopendra sind vor allem in tropischen und wärmeren gemäßigten Zonen verbreitet.
+- Arten, die zwar in der tropischen Zone vorkommen, aber dort im Hochland oder in Bergnebelwäldern leben, sind deutlich kühleren Bedingungen ausgesetzt und vertragen in der Regel keine dauerhaften Temperaturen von über 23°C.
 
-Auch wenn nur einige Arten aus Wüstenregionen (z.B. **Scolopendra heros** oder **Scolopendra polymorpha** aus Arizona) einen Bodengrund mit hohem Sand-Anteil benötigen, so hilft dieser Bestandteil bei der Auflockerung des Bodengrundes und verbessert die Wasserleitfähigkeit. 
-
-{{<clearfix>}}
-
-## Nicht tauglich als Bodengrund
-
-{{< hint "danger" >}}
-Manche Bodengründe sind _nicht_ für Skolopender geeignet und können dem Tier schaden! 
-{{< / hint >}}
-
-### Kokos-Humus
-
-Verwendet auf _keinen_ Fall Kokos-Humus / Kokos-Boden! Die Fasern im Kokos-Humus werden von Skolopendern bei der Nahrungsaufnahme mit aufgenommen und können _nicht_ verdaut werden. Als Resultat sammeln sich die Fasern im Darmtrakt des Tieres und es kann an Darmverschluss sterben.  
-Diesen Hinweis liest man nicht nur bei Skolopendern, sondern auch bei Diplopoden und teilweise sogar für Vogelspinnen. 
-
-### Terrarien-Erde
-
-Gängige Terrarienerde wird häufig mit Kokos-Humus gestreckt / vermischt, weil es einfach kostengünstig viel Volumen hinzufügt und die feuchtigkeitsspeichernd wirkt.
-
-Darum sollte man Terrarien-Erde _nur_ verwenden, wenn man ganz sicher ist, dass kein Kokos-Humus als Supplement enthalten ist.
-
-### Blumenerde
-
-Die meiste Blumenerde ist mit Düngemitteln angereichert, damit Pflanzen darin besser wachsen. Je nach Art des Düngers sind die Inhaltsstoffe jedoch schädlich für Terrarientiere. 
+Das Wachstum vieler Arten steigt bei höheren Temperaturen, kann jedoch durch den erhöhten Stoffwechsel auch die Lebenserwartung verringern. Eine Heizmatte am Terrarium (keine Wärmequelle von unten!) kann zusätzliche Wärme bieten, ist jedoch für die meisten Arten nicht zwingend erforderlich. Sollte die Raumtemperatur unter 22°C fallen, kann zusätzliche Wärme notwendig sein, um das Fress- und Wachstumspotenzial zu steigern.
