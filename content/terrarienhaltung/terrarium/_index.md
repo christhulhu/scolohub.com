@@ -1,72 +1,74 @@
 ---
 title: Terrarium
 weight: 100
+in_revision: false
 ---
 
 # Terrarium
 
-## Grundlegendes
-
-### Sicherheit
+## Sicherheit bei der Haltung von Skolopendern
 
 > [!DANGER]
-> Skolopender sind Ausbruchskünstler!
+> Skolopender sind wahre Ausbruchskünstler! Daher muss ein Terrarium besonders sicher gestaltet sein.
 
-Darum sollte ein Terrarium für einen Skolopender besonders gesichert sein. Für Anfänger werden keine Terrarien mit Front- oder Falltüren empfohlen, die häufig in der Spinnenhaltung verwendet werden. Vielmehr sollte ein Terrarium für Hundertfüßer von oben zu öffnen sein, damit die flinken Tiere nicht schnell durch die geöffnete Türe abhauen können. Da Hundertfüßer nicht an glatten Flächen klettern können, kann eine Öffnung im Terrariendeckel allerhöchstens erreicht werden, wenn der Skolopender Klettermöglichkeiten hat, oder an der Silikonnaht des Beckens hochklettert.
+## Die richtige Terrarienwahl
 
-Gleichermaßen können sich Hundertfüßer durch relativ kleine Öffnungen zwängen. Darum sollten Spaltmaße an Türöffnungen und Belüftungen so klein wie möglich sein. Aber auch die Belüftung selber sollte keine zu großen Öffnungen haben. Lochblech sollte kleine Löcher haben oder eine feinmaschige Gaze verwendet werden.  
+Für Anfänger in der Skolopenderhaltung sind Terrarien mit Front- oder Falltüren, die häufig in der Spinnenhaltung verwendet werden, nicht empfehlenswert. Stattdessen sollte ein Terrarium von oben zu öffnen sein, damit das flinke Tier nicht sofort durch eine geöffnete Tür entkommen kann. Da Hundertfüßer nicht an glatten Flächen klettern können, können sie eine Öffnung im Terrariendeckel nur erreichen, wenn sie Klettermöglichkeiten haben. Eine Silikonnaht kann dabei manchmal als Kletterhilfe ausreichen, weshalb hier besondere Vorsicht geboten ist.
 
-Da Skolopender aber auch kräftige Mandibeln haben, und auch ihre Maxillipeden als Werkzeuge einsetzen, sollte man bei Plastikgaze vorsichtig sein; ein Hundertfüßer kann diese eventuell zerstören und durch die neu geschaffene Öffnung entfliehen. Gleiches Schicksal kann bei größeren Arten auch bei der (temporären) Unterbringung in Heimchendosen oder ähnlich dünnwandigen Plastikbehältern passieren: Das Tier kann sich ein Loch in den Behälter "fressen".  
-Bei solchen leichten Plastikdosen kann es auch passieren, dass ein kräftiger Hundertfüßer den Deckel selber aufdrückt. Aber die Gefahr von "Lochfrass" oder selbstständigem Öffnen ist bei jungtieren und kleinen Arten relativ gering.
+## Spaltmaße und Belüftung
 
-Als Alternative zu Plastikgaze für die Abdeckung von Belüftungslöchern gibt es noch Metalgaze, Streckmetal oder Lochblech. Dies hat sich bei sehr vielen Arten bewährt, da es wirklich ausbruchsicher ist. Doch bei südamerikanischen Arten sollte man aufpassen, diese scheinen grobe Metalgaze als Einladung zum Ausbruchsversuch zu verstehen und können sich daran die Klauen abbrechen. Hier scheint man mit Lochblech auf der sicheren Seite zu sein.
+Hundertfüßer können sich durch erstaunlich kleine Öffnungen zwängen. Daher sollten Spaltmaße an Türen und Belüftungen so gering wie möglich sein. Auch die Belüftung selbst darf keine zu großen Öffnungen haben. Es empfiehlt sich, Lochblech mit kleinen Löchern oder feinmaschige Gaze zu verwenden.
 
-### Die richtige Größe
+## Materialwahl und Stabilität
 
-Derweil junge Skolopender durchaus in kleineren Behältern gehalten werden sollten, damit man einen besseren Überblick behält, und das Fluchtrisiko durch zu große Ventilationsöffnungen minimiert wird, sollten adulte Skolopender in einem Terrarium mit angemessener Größe gehalten werden.
+Skolopender besitzen kräftige Mandibeln und nutzen ihre Maxillipeden als Werkzeuge. Aus diesem Grund sollte bei der Verwendung von Plastikgaze Vorsicht geboten sein, da sie leicht beschädigt werden kann und somit als Fluchtweg dient. Größere Arten sind in der Lage, sich durch dünnwandige Plastikbehälter, wie Heimchendosen, ein Loch zu beißen oder den Deckel selbstständig zu öffnen.
 
-Eine simple Faustformel für die minimale Terrariengröße ist:
+Bei kleineren Arten und Jungtieren ist dieses Risiko zwar geringer, dennoch sollte auch hier auf eine stabile Unterbringung geachtet werden. Vor allem ist darauf zu achten, dass die Tiere den Deckelrand nicht erreichen, da sie sich gerne zwischen Deckel und Behälterrand zwängen und dort stecken bleiben können
 
-- Breite = Länge des Tieres
-- Tiefe = Doppelte Länge des Tieres
-- Höhe = Doppelte Länge des Tieres
+## Sichere Alternativen
 
-Dabei wird die Höhe bewusst großzügig gestaltet, damit man ausreichend Substrat zum Vergraben bereitstellen kann, und der Skolopender nicht einfach durch die Öffnung im Deckel herausklettern kann.
+Sichere Alternativen zur Plastikgaze sind Metallgaze, Streckmetall oder Lochblech. Diese Materialien haben sich bei vielen Skolopender-Arten als ausbruchsicher erwiesen. Bei grober Metallgaze besteht jedoch die Gefahr, dass besonders große Arten sich beim Klettern oder Abstützen die Klauen abbrechen. In solchen Fällen ist Lochblech die bessere Wahl. Auch eignen sich runde Lüftungsgitter aus Kunststoff. Diese sind robust genug, sodass die Tiere ihn nicht zerbeißen können, und gleichzeitig flexibel genug, um Verletzungen zu vermeiden.
+Mit der richtigen Sicherung des Terrariums steht einer erfolgreichen und sicheren Haltung von Skolopendern nichts im Wege!
+
+## Die richtige Behältergröße
+
+Junge Skolopender sollten in kleineren Behältern untergebracht werden. So behält man leichter den Überblick und minimiert das Fluchtrisiko durch zu große Ventilationsöffnungen. Erwachsene Tiere benötigen hingegen ein Terrarium oder eine Box mit angemessener Größe.
+Eine einfache Faustformel für die Mindestgröße des Terrariums lautet:
+
+- **Breite** = Länge des Tieres
+- **Tiefe** = Doppelte Länge des Tieres
+- **Höhe** = Doppelte Länge des Tieres
+- 
+Die Höhe wird bewusst großzügig bemessen, um ausreichend Substrat zum Eingraben bereitzustellen und zu verhindern, dass der Skolopender durch die Deckelöffnung entkommt.
 
 > [!NOTE]
-> Größenempfehlungen für einige Arten finden sich in unseren [Pflegeanleitungen](/caresheets).
+> Größenempfehlungen für einzelne Arten finden sich in den jeweiligen [Pflegeanleitungen](/caresheets).
 
-## Unterbringung von juvenilen Skolopender
+
+## Unterbringung juveniler Skolopender
 
 {{< figure 
     src="./images/terrarium_500ml.jpg"
     alt="Aufzuchtdose 500ml"
-    title="Aufzuchtdose 500ml"
-    class="fig-left"
+    class="fig-right"
     width="300px"
 >}}
+Um junge Hundertfüßer, die sich oft verstecken, gut im Blick zu behalten, empfiehlt es sich, die Tiere in kleinen Plastikdosen zu halten. Für die jeweilige Körpergröße der Jungtiere gibt es verschiedene geeignete Behälter:
 
-Damit man junge Hundertfüßer nicht aus den Augen verliert - sofern das bei der versteckten Lebensweise der Tiere überhaupt möglich ist - sollte man die Pedelings in kleinen Plastikdosen halten. Dabei gibt es entsprechende Möglichkeiten für die jeweilige Körpergröße der Jungtiere:
+- Verpackungsbecher aus PP, 250 ml
+Maße: ca. 100 mm (L) x 75 mm (B) x 50 mm (H)
+Diese Dosen sind kostengünstig (ca. EUR 0,15) und können einfach mit Belüftungslöchern versehen werden, indem man mit einer Nadel kleine Löcher in den Deckel sticht.
+- Heimchendose, 500 ml
+Maße: ca. 110 mm (L) x 110 mm (B) x 60 mm (H)
+Eine praktische und preiswerte Alternative, wenn man bereits Heimchen als Futtertiere gekauft hat und die Dose dafür nutzen kann. Ansonsten kostet sie ca. EUR 0,30.
+- Aufzuchtdosen mit Gaze
+550 ml, ca. 110 mm (Durchmesser) x 85 mm (H)
+Diese Dosen sind stabiler als die zuvor genannten Behälter, dicht schließend und in verschiedenen Größen erhältlich, entweder rund oder eckig, mit Gaze im Deckel oder mit zusätzlicher Belüftung an der Seite. Kosten ca. EUR 0,90 bei [Kerf.de](https://kerf.de/Aufzuchtdosen-mit-Gaze-im-Deckel-rund-klein) oder EUR 1,30 bei [Insektenliebe.com](https://insektenliebe.com/de/shop/aufzuchtdosen-mit-gaze-im-deckel/).
 
-["**Tzatziki-Dosen**"](https://www.arachno-world.shop/collections/aufzuchtdosen/products/aufzuchtdose-250ml), 250ml, Maße ca. 100mm (L) x 75mm (B) x 50mm (H).  
-Diese Dosen sind günstig und Belüftungslöcher können mit einer Nadel schnell und einfach selber gemacht werden.  Kosten ca. EUR 0,15.
+> [!WARNING]
+> Dünne Plastikbehälter wie Verpackungsbecher oder Heimchendosen eignen sich nicht für alle Arten! Größere, kräftige Tiere können sich schnell durch die dünnen Wände beißen und entkommen. Daher sollten solche Behälter nur für Tiere bis maximal 4 cm Körpergröße verwendet werden. Zudem ist es wichtig, die Haltungsparameter der jeweiligen Art zu beachten. Bei kleinen Grundflächen wird es schwieriger, trockene und feuchte Bodenzonen richtig zu gestalten.
 
-[**Heimchendose**](https://www.arachno-world.shop/collections/aufzuchtdosen/products/aufzuchtdose-heimchendose-500ml), 500ml, Maße ca. 110mm (L) x 110mm (B) x 60mm (H).  
-Eine kostengünstige Alternative, wenn man bereits Heimchen als Futtertiere gekauft und die Dose dadurch eh schon im Haus hat. Ansonsten ca. EUR 0,30.
-
-**Runde Aufzuchtdosen mit bereits installierter Gaze im Deckel**.  
-Diese Dosen sind etwas stabiler als die zuvorgenannten Behälter und können in unterschiedlichen Größen gekauft werden. Beispielsweise  
-550ml, ca. 110mm (Durchmesser) x 85mm (H), Kosten ca. EUR 0,90 bei [Kerf.de](https://kerf.de/Aufzuchtdosen-mit-Gaze-im-Deckel-rund-klein) oder EUR 1,30 bei [Insektenliebe.com](https://insektenliebe.com/de/shop/aufzuchtdosen-mit-gaze-im-deckel/)
-
-{{< hint "warning" >}}
-Dünne Plastikbehälter wie Tzatziki- oder Heimchendosen eigenen sich nicht für alle Arten! Gerade Südamerikaner sind forsche Tiere, die sich schnell durch die dünnen Wände des Behälters durchbeißen können. 
-
-Prinzipiell kann man sagen, dass solche Dosen für alles ab Fingerlänge nicht tauglich sind. 
-
-Weiterhin sollte man die Haltungsparameter der individuellen Art beachten. Bei kleinen Grundflächen erschwert das Erstellen von trockenen und feuchten Bodenzonen. 
-{{< / hint >}}
-
-## Unterbringung von adulten Skolopendern
+## Unterbringung adulter Skolopender
 
 {{< figure
     src="../einsteiger/images/terrarium_reptiplanet.jpg"
@@ -74,17 +76,23 @@ Weiterhin sollte man die Haltungsparameter der individuellen Art beachten. Bei k
     title="ReptiPlanet Terrarium"
     attr="Insektenliebe.de"
     attrlink="https://insektenliebe.com/de/produkt/reptiplanet-terrarium/"
-    class="fig-left"
+    class="fig-right"
 >}}
-Für kleine und mittelgroße Arten gibt es mittlerweile kommerzielle Terrarien mit Schiebedeckel, beispielsweise von ReptiPlanet in den Größen 20cm (L) x 20cm (B) x 20cm (H) (ca. EUR 40,-) oder 30cm (L) x 30cm (B) x 30cm (H) (ca. EUR 55,-).  (Beispiel [ReptiPlanet Terrarium bei Insektenliebe.com](https://insektenliebe.com/de/shop/reptiplanet-terrarium/))  
-Solche Terrarien mit Schiebedeckel lassen sich allerdings auch kostengünstig aus Aquarien selberbauen.
 
-Natürlich kann man auch größere Plastikbehälter mit Deckel für die Haltung von adulten Hundertfüßern nutzen. Und wenn man etwas Erfahrung mit den Tieren hat und deren Verhalten einschätzen kann, sind Terrarien mit Front- oder Falltüren auch eine Möglichkeit.
+Für kleine und mittelgroße Arten sind mittlerweile kommerzielle Terrarien mit Schiebedeckel erhältlich, beispielsweise von ReptiPlanet in den Größen:
 
-Für manche arboreale oder semi-aquatische Arten kann die Gestaltung eines vollständigen Paludarium sinnvoll sein und einen Blickfang in der Wohnung bieten.
-{{<clearfix>}}
+- 20 cm (L) x 20 cm (B) x 20 cm (H) (ca. EUR 40,-)
+- 30 cm (L) x 30 cm (B) x 30 cm (H) (ca. EUR 55,-)
 
-### Plastikboxen
+(Beispiel: ReptiPlanet Terrarium bei Insektenliebe.com)
+
+Diese Terrarien mit Schiebedeckel bieten eine praktische Lösung, lassen sich aber auch kostengünstig aus Aquarien selbst bauen.
+
+Für die Haltung von adulten Hundertfüßern können auch größere Plastikbehälter mit Deckel genutzt werden. Wenn man bereits Erfahrung im Umgang mit den Tieren hat und deren Verhalten gut einschätzen kann, sind auch Terrarien mit Front- oder Falltüren eine gute Option.
+
+Für manche arboreale oder semi-aquatische Arten ist auch die Gestaltung größerer umfangreicher Schauterrarien möglich. Es bietet nicht nur den nötigen Lebensraum für diese Arten, sondern kann auch als echter Blickfang in der Wohnung dienen. Der Kompromiss dabei ist jedoch, dass die Tiere unter Umständen seltener zu sehen sind, was die Kontrolle über ihren Zustand erschwert.
+
+## Plastikboxen
 
 {{<figure
     src="images/plastikboxen.jpg"
@@ -92,19 +100,22 @@ Für manche arboreale oder semi-aquatische Arten kann die Gestaltung eines volls
     title="Umgebaute Plastikboxen"
     attr="Aus dem Altbestand von Christian Gehlen"
     width="400"
-    class="fig-left"
+    class="fig-right"
 >}}
-Im Baumarkt oder Möbelhaus gibt es allerlei Plastikboxen zur Lagerhaltung. Viele dieser Boxen haben praktische Verschlussclips, die den Deckel gegen ein Öffnen durch den Skolopender schützen. Somit eignen sich diese Boxen ideal für die Haltung von Hundertfüßern, obschon sie natürlich nicht sonderlich schön aussehen. Doch die mangelnde Optik wird durch die Funktionalität wieder wett gemacht, in solchen Behältern kann man hervorragend das Feuchtigkeitsniveau halten und kontrollieren. Man muss lediglich die Belüftungslöcher entsprechend der Anforderungen selber in die Box bohren.
 
-Zur Herstellung von Belüftungsfläche kann man entweder die gewünschte Anzahl Belüftungslöcher mit einem Bohrer oder Lötkolben in Dose und Deckel einbringen. Alternativ kann man auch mit einem Cuttermesser größere Belüftungsflächen aus der Dose schneiden, und diese dann mit Lochblech, Streckmetall oder Metalgaze wieder verkleben. Dies kann wiederum mit Heißkleber oder Silikon erfolgen. Oder man brennt eine Gaze mit einem Lötkolben direkt in die Dose ein.
+Im Internet, Baumarkt oder Möbelhaus findet oft eine Vielzahl an Plastikboxen zur Lagerung die sich auch für die Unterbringung von Skolopendern eignen. Es ist jedoch wichtig, darauf zu achten, dass die Behälter wirklich dicht schließen, zum Beispiel durch einen zuverlässigen Verschlussmechanismus wie Verschlussclips. So wird verhindert, dass der Skolopender den Deckel von innen öffnet. Man sollte auch drauf achten, dass die Boxen keinen unangenehmen Kunststoffgeruch ausdünsten (chemischen Rückstände) und Bisphenol A (BPA) frei. Geeignet sind hochwertige Boxen aus Polypropylen (PP), Polyethylen (PE) und Acryl (PMMA) die auch im Lebensmittelbereich genutzt werden.
 
-Größere Plastikboxen haben einen Griff am Deckel. Dieser hat in seiner Anbringung eventuell Spaltmaße, die mögliche Ausbruchsstellen für den Skolopender bieten. Darum empfiehlt sich die Entfernung des Griffs, und die Versiegelung der Löcher mit Alugaze oder Streckmetal.
+In diesen Behältern lässt sich das Feuchtigkeitsniveau hervorragend halten und kontrollieren. Wichtig ist, dass man die Belüftungslöcher/-flächen entsprechend den Anforderungen selbst in die Box bohrt bzw. anbringt.
 
-### DYI Terrarien aus Aquarien
+Für die Belüftung kann man entweder eine bestimmte Anzahl von Löchern mit einem Bohrer oder Lötkolben in Dose und Deckel einbringen. Alternativ lässt sich auch mit einem Cuttermesser eine größere Belüftungsfläche aus der Dose schneiden, die dann mit Lochblech, Streckmetall oder Metallgaze verklebt werden kann. Beim Bohren und Schneiden von Plastik ist es wichtig, dies in einer warmen Umgebung und ohne zu viel Druck durchzuführen, um ein Brechen des Kunststoffs zu vermeiden. Heißkleber oder Silikon eignen sich hervorragend, um die Belüftungsflächen zu fixieren. Eine weitere Möglichkeit besteht darin, die Gaze direkt mit einem Lötkolben in die Dose einzubrennen. Bewährt haben sich auch Lüftungsgitter aus dem Sanitärbereich, die passgenau mit einem Lochsägen-Aufsatz gebohrt und anschließend mit Heißkleber befestigt werden können.
 
-Aus Aquarien lassen sich mit etwas handwerklichem Geschick und ein paar Werkstoffen aus dem Baumarkt schnell und einfach skolopendersichere Terrarien herstellen. Mit U- oder L-Profilen kann man Führungsschienen für einen Schiebedeckel mit Silikon (Aquarien- oder lebensmittelechtes Küchensilikon) an die Oberseite des Aquariums kleben. Als Deckel kann eine Sperrholzplatte in der geeigneten Stärke herhalten, in die man große Belüftungslöcher reinsägt. Diese werden mit Streckmetal oder Lochblech verklebt, damit der Hundertfüßer nicht ausbrechen kann. 
+Größere Plastikboxen haben häufig einen Griff am Deckel, der möglicherweise Spaltmaße aufweist und so eine potenzielle Ausbruchsquelle für den Skolopender darstellt. Daher empfiehlt es sich, den Griff zu entfernen und die entstandenen Löcher mit Alugaze oder Streckmetall zu versiegeln.
 
-Weitere L-Profile an dem Schiebedeckel dichten Spaltmaße und eventuelle Ausbruchsstellen ab.
+## DIY-Terrarien
+
+Da die Anforderungen an Terrarien für Hundertfüßer oft spezifischer sind und von den Standardmaßen der üblichen Terrarien auf Börsen abweichen, besteht die Möglichkeit, Terrarien nach Maß anfertigen zu lassen oder sie mit etwas handwerklichem Geschick und Materialien aus dem Baumarkt selbst zu bauen – etwa aus alten Aquarien und Glasscheiben. Auf diese Weise lässt sich ein individuell passendes Zuhause für die Tiere gestalten, das ihren Bedürfnissen gerecht wird.
+
+Für den Bau von skolopendersicheren Terrarien bietet es sich an, Führungsschienen für einen Schiebedeckel mit U- oder L-Profilen an der Oberseite des Aquariums zu befestigen. Wichtig ist dabei, dass kein Sanitärsilikon verwendet wird, da dieses oft fungizide Zusätze enthält, die zwar Schimmelbildung verhindern, jedoch für die Tiere schädlich sein können. Stattdessen sollte man Aquariensilikon wählen, das speziell für den Einsatz in Terrarien entwickelt wurde und für die Tiere unbedenklich ist. Als Deckel eignet sich eine Sperrholzplatte, die in der richtigen Stärke zugeschnitten und mit großen Belüftungslöchern versehen wird. Diese Löcher können mit Streckmetall oder Lochblech abgedeckt werden, um ein Ausbrechen des Skolopenders zu verhindern. verklebt werden, um ein Ausbrechen des Skolopenders zu verhindern. Zusätzliche L-Profile am Schiebedeckel helfen, Spaltmaße und mögliche Ausbruchsstellen zuverlässig abzudichten.
 
 {{<figure
     src="../hilfsmittel/images/dyi_terrarium.jpg"
